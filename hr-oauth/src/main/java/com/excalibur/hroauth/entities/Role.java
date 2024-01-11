@@ -1,6 +1,6 @@
 package com.excalibur.hroauth.entities;
 
-mport java.io.Serializable;
+import java.io.Serializable;
 
 public class Role implements Serializable {
 	private static final long serialVersionUID = 1L;
